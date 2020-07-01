@@ -1,0 +1,9 @@
+header div
+{
+    display: grid;
+    color: white;
+    background: orangered;
+    padding: 1em;
+    font-weight: bold;
+    font-size: 1.3em;
+}
